@@ -1,7 +1,7 @@
 # GroupChat
 Aplikasi chat grup realtime
 
-Link Demo : [GroupChat](https://rachmadmaulanaj.github.io/groupchat-app/)
+<a href="https://rachmadmaulanaj.github.io/groupchat-app/" target="_blank">Link Demo</a>
 
 ![GroupChat](groupchat.gif)
 
